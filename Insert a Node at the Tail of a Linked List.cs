@@ -1,0 +1,1 @@
+# Insert-a-Node-at-the-Tail-of-a-Linked-ListThis program inserts new nodes at the tail of a singly linked list, building the list from user input. After construction, it prints all node values in order using the PrintSinglyLinkedList function.
