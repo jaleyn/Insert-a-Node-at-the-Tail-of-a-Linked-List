@@ -1,0 +1,1 @@
+This program builds a singly linked list by inserting each new node at the tail using the insertNodeAtTail function. After constructing the list from user input, it prints all node values in sequence.
